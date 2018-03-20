@@ -6,10 +6,14 @@
     {
         return json_decode('"'.$string.'"');
     }
-    define (URL, (empty($_SERVER['HTTPS']) ? 'http://' : 'https://').$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
-    
+    function raw_json_encode($array, $flags = 0) {
+        return preg_replace_callback('/\\\\u([0-9a-zA-Z]{4})/', function ($m) {
+            return html_entity_decode("&#x$m[1];", 0, 'UTF-8');
+        }, json_encode($array, $flags));
+    }
     if (strlen($_GET["unicode"]) >= 1){
-        echo unicode_sequence_decode($_GET["unicode"]);
+        $array = array('conv' => unicode_sequence_decode($_GET["unicode"]));
+        $raw_json = raw_json_encode($array);
         return;
     }
     $json_array = array(
