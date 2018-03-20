@@ -9,11 +9,7 @@
     define (URL, (empty($_SERVER['HTTPS']) ? 'http://' : 'https://').$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
     
     if (strlen($_GET["unicode"]) >= 1){
-        $json_array = array(
-            'conv' => unicode_sequence_decode($_GET["unicode"]),
-        );
-        header("Content-Type: text/javascript; charset=utf-8");
-        echo json_encode($json_array);
+        echo unicode_sequence_decode($_GET["unicode"]);
         return;
     }
     $json_array = array(
