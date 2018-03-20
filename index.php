@@ -14,6 +14,7 @@
     if (strlen($_GET["unicode"]) >= 1){
         $array = array('conv' => unicode_sequence_decode($_GET["unicode"]));
         $raw_json = raw_json_encode($array);
+        echo $raw_json;
         return;
     }
     $json_array = array(
