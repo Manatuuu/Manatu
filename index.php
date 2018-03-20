@@ -17,9 +17,7 @@
         echo $raw_json;
         return;
     }
-    $json_array = array(
-        'conv' => false,
-    );
-    header("Content-Type: text/javascript; charset=utf-8");
-    echo json_encode($json_array);
+    $array = array('conv' => 'エラー: unicodeがセットされていません');
+    $raw_json = raw_json_encode($array);
+    echo $raw_json;
 ?>
