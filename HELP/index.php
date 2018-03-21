@@ -15,11 +15,11 @@
     <div class="container">
       <div class="inner">
         <div class="six column" style="margin-top: 5em">
-        <img src="../assets/images/logoo.png">
-        <h2>API List</h2>
+        <img src="../assets/images/logo2.png">
+        <h2>API Help</h2>
           <span>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">API List</button>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Help</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP/Unicode_Converter.php'">Unicode Converter</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Unknown</button>
           </span>
         </div>
       </div>
