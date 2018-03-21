@@ -19,8 +19,10 @@
 <img src="assets/images/logo.png">
 <h2>My API List</h2>
 <span>
+<ul class="actions">
 <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">API List</button>
 <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Help</button>
+</ul>
 </span>
 </div>
 </div>
