@@ -17,10 +17,10 @@
       <div class="inner">
         <div class="six column" style="margin-top: 5em">
         <img src="assets/images/logo.png">
-        <h2>API List</h2>
+        <h2>API</h2>
           <span>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">API List</button>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Help</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">API LIST</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">API HELP</button>
           </span>
         </div>
       </div>
