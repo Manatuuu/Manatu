@@ -4,7 +4,7 @@
             return html_entity_decode("&#x$m[1];", 0, 'UTF-8');
         }, json_encode($array, $flags));
     }
-    $array = array('ip' => '$_SERVER['HTTP_X_FORWARDED_FOR']');
+    $array = array('ip' => $_SERVER['HTTP_X_FORWARDED_FOR']);
     $raw_json = raw_json_encode($array);
     echo $raw_json;
 ?>
