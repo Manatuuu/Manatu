@@ -15,7 +15,7 @@
     <body>
     <div class="container">
       <div class="center">
-        <div class="six column" style="margin-top: 20em">
+        <div class="six column" style="margin-top: 5em">
         <img src="assets/images/logo.png">
         <h2>API List</h2>
           <span>
