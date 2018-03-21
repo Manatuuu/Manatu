@@ -18,8 +18,9 @@
         <img src="../assets/images/logo2.png">
         <h2>API Help</h2>
           <span>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP/Unicode_Converter.php'">Unicode Converter</button>
-            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Unknown</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP/Unicode_Converter.php'">Unicode Converter API</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">IP Address API</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com'">Back</button>
           </span>
         </div>
       </div>
