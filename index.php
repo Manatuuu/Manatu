@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>My API List</title>
+<title>API List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="assets/css/main.min.css">
 <link rel="shortcut icon" href="assets/images/favicon-32x32.ico" type="image/x-icon"/>
@@ -16,10 +16,8 @@
 <img src="assets/images/logo.png">
 <h2>My API List</h2>
 <span>
-<button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">My API List</button>
-<button onclick="window.location.href='https://hypixel.net'">Help</button>
-<button onclick="window.location.href='https://api.hypixel.net/javadocs'">JavaDocs</button>
-<button onclick="window.location.href='https://hypixel.net/forums/api-help.111/'">API Help Forum</button>
+<button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">API List</button>
+<button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/HELP'">Help</button>
 </span>
 </div>
 </div>
