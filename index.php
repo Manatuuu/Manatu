@@ -1,6 +1,6 @@
 <style type="text/css">
 #d_background1 {
-	background:#ff6699 url(/content/img/pattern.jpg) repeat 0 0;
+	background:#ff6699 url(/BGAwCbV-.jpg) repeat 0 0;
 	padding:20px;
 	color:#fff;
 	font-weight:bold;
