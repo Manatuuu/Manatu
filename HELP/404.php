@@ -15,7 +15,7 @@
         <div class='c'>
             <div class='_404'>404</div>
             <hr>
-            <div class='_1'>THE PAGE</div>
-            <div class='_2'>WAS NOT FOUND</div>
-            <a class='btn' href='#'>BACK TO MARS</a>
+            <div class='_1'>このページには</div>
+            <div class='_2'>何も存在しません</div>
+            <a class='btn' href='https://stark-reaches-14922.herokuapp.com'>戻る</a>
         </div>
