@@ -1,3 +1,16 @@
+<style type="text/css">
+#d_background1 {
+	background:#ff6699 url(/content/img/pattern.jpg) repeat 0 0;
+	padding:20px;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+}
+</style>
+
+<div id="d_background1">
+	background:#ff6699 url(/content/img/pattern.jpg) repeat 0 0;
+</div>
 <?php
 function init_background_process(){
     ob_end_clean();
