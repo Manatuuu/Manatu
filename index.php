@@ -13,9 +13,9 @@
       <link rel="shortcut icon" href="assets/images/favicon-16x16.ico" type="image/x-icon"/>
     </head>
     <body>
-    <div class="header">
-      <div class="inner">
-        <div class="six column" style="margin-top: 5em">
+    <div class="container">
+      <div class="center">
+        <div class="six column" style="margin-top: 20em">
         <img src="assets/images/logo.png">
         <h2>API List</h2>
           <span>
