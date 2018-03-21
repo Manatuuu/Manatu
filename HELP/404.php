@@ -1,4 +1,10 @@
- <div id="clouds">
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <link rel="stylesheet" href="404.css">
+    </head>
+</html>
+<div id="clouds">
             <div class="cloud x1"></div>
             <div class="cloud x1_5"></div>
             <div class="cloud x2"></div>
