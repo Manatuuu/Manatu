@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>HypixelDev - PublicAPI</title>
+<title>My API List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="assets/css/main.min.css">
 <link rel="icon" type="image/png" href="assets/images/favicon-32x32.png">
@@ -16,8 +16,8 @@
 <img src="assets/images/logo.png">
 <h2>My API List</h2>
 <span>
-<button onclick="window.location.href='https://github.com/HypixelDev/PublicAPI'">GitHub Repo</button>
-<button onclick="window.location.href='https://hypixel.net'">Hypixel Website</button>
+<button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API'">My API List</button>
+<button onclick="window.location.href='https://hypixel.net'">Website</button>
 <button onclick="window.location.href='https://api.hypixel.net/javadocs'">JavaDocs</button>
 <button onclick="window.location.href='https://hypixel.net/forums/api-help.111/'">API Help Forum</button>
 </span>
