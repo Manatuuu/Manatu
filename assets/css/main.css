@@ -21,8 +21,8 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-
 	body {
+		background-image: url("./images/logo.png");
 		line-height: 1;
 	}
 
