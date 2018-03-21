@@ -15,7 +15,7 @@
     <div class="container">
       <div class="inner">
         <div class="six column" style="margin-top: 5em">
-        <img src="../assets/images/logo2.png">
+        <img src="../assets/images/logo3.png">
         <h2>API List</h2>
           <span>
             <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API/Unicode_Converter.php'">Unicode Converter API</button>
