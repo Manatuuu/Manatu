@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>API List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="assets/css/main.min.css">
+<link rel="stylesheet" href="assets/css/main.css">
 <link rel="shortcut icon" href="assets/images/favicon-32x32.ico" type="image/x-icon"/>
 <link rel="shortcut icon" href="assets/images/favicon-16x16.ico" type="image/x-icon"/>
 </head>
