@@ -15,7 +15,6 @@
         <div class='c'>
             <div class='_404'>404</div>
             <hr>
-            <div class='_1'>このページには</div>
-            <div class='_2'>何も存在しません</div>
+            <div class='_2'>このページには何も存在しません</div>
             <a class='btn' href='https://stark-reaches-14922.herokuapp.com'>戻る</a>
         </div>
