@@ -14,7 +14,7 @@
 <div class="center">
 <div class="six column" style="margin-top: 5em">
 <img src="assets/images/logo.png">
-<h2>Hypixel API</h2>
+<h2>My API List</h2>
 <span>
 <button onclick="window.location.href='https://github.com/HypixelDev/PublicAPI'">GitHub Repo</button>
 <button onclick="window.location.href='https://hypixel.net'">Hypixel Website</button>
