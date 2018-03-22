@@ -1,4 +1,4 @@
-request = require 'request'
+var request = require('request');
 
 module.exports = (app) ->
 
