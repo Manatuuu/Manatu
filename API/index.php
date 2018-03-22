@@ -20,6 +20,7 @@
           <span>
             <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API/Unicode_Converter.php'">Unicode Converter API</button>
             <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API/IP_Address.php'">IP Address API</button>
+            <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com/API/Hypixel_Player_Data.php'">Hypixel Player Data API</button>
             <button onclick="window.location.href='https://stark-reaches-14922.herokuapp.com'">Back</button>
           </span>
         </div>
