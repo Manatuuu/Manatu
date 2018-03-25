@@ -8,7 +8,7 @@
         }, json_encode($array, $flags));
     }
     if (strlen($_GET["uuid"]) >= 1){
-        if ("$_GET["uuid"]" == ("5b222858-24d4-4060-ab61-55132d8042bc" or "6af1557e-3003-48ca-9989-fe703f9729c7" or "6dcaaf9a-1c13-4e2c-b840-683532e96a50")){
+        if ($_GET["uuid"] == "5b222858-24d4-4060-ab61-55132d8042bc" or "6af1557e-3003-48ca-9989-fe703f9729c7" or "6dcaaf9a-1c13-4e2c-b840-683532e96a50"){
             $array = array('success' => true);
             $raw_json = raw_json_encode($array);
             echo $raw_json;
